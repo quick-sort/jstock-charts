@@ -1,0 +1,31 @@
+{
+  "name": "jstock-charts",
+  "version": "0.0.1",
+  "description": "Charts for stock data",
+  "main": "index.js",
+  "dependencies": {
+    "jstock": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quick-sort/jstock-charts.git"
+  },
+  "keywords": [
+    "Charts",
+    "Stock",
+    "MACD",
+    "KDJ",
+    "MA",
+    "BOLL"
+  ],
+  "author": "Rui Zhou",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/quick-sort/jstock-charts/issues"
+  },
+  "homepage": "https://github.com/quick-sort/jstock-charts#readme"
+}
